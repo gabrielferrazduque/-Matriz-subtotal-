@@ -9,7 +9,7 @@ void calcularSubtotais(pib,assintes,indotras,fabricas,apis,pais);
 
 printf("Conjuntos com Array (vetores)");(imprimir_array sizeA vectorA sizeB vectorB ());  
 
- hile (condition,CPF,CNPJ,Component,constructor) ();{ 
+ while (condition,CPF,CNPJ,Component,constructor) ();{ 
     class CPF Component CNPJ Component (condition CPF/CNPJ){
         constructor(props) {
             super(props);
