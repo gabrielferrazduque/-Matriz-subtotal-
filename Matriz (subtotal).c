@@ -9,7 +9,9 @@ void calcularSubtotais(pib,assintes,indotras,fabricas,apis,pais);
 
 {  
 
-printf("Conjuntos com Array (vetores)");(imprimir_array sizeA vectorA sizeB vectorB ());   
+printf("Conjuntos com Array (vetores)");(imprimir_array sizeA vectorA sizeB vectorB ());  
+
+
 
 printf("Conjuntos com Array (vetores)");(imprimir_array sizeA vectorA sizeB vectorB ());  
 
