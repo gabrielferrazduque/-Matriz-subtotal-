@@ -1,6 +1,8 @@
-#include <stdio.h>  
+ #include <stdio.h> 
+#include<stdlib.h>
 #include<matriz.h>  
-#include<math.h>   
+#include<math.h>         
+#include<time.h>
 void calcularSubtotais(pib,assintes,indotras,fabricas,apis,pais);  
  
  void imprimir_array(imprimir_array int ar[], unsigned int qntd); 
